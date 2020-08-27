@@ -1,5 +1,6 @@
 ## Aims to solve two problems every week
 
+
 * With the three teams of the multicampus(educational institution)
 * Each team submits an problem every Monday and Thursday
 * Then, each team member reviews their own code
