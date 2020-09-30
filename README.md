@@ -22,4 +22,5 @@
 | 20_09_29 |        [programmers]\_K번째_수        | [[programmers]\_K번째_수](https://github.com/nickhealthy/Algorithm/blob/master/20_09_29/%5Bprogrammers%5D_K%EB%B2%88%EC%A7%B8_%EC%88%98.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42748) |
 | 20_09_30 |     [programmers]\_두_정수의\_합      | [[programmers]\_두_정수의\_합](https://github.com/nickhealthy/Algorithm/blob/master/20_09_30/%5Bprogrammers%5D_%EB%91%90_%EC%A0%95%EC%88%98%EC%9D%98_%ED%95%A9.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12912) |
 | 20_09_30 | [programmers]_수박수박수박수박수박수? | [[programmers]_수박수박수박수박수박수?](https://github.com/nickhealthy/Algorithm/blob/master/20_09_30/%5Bprogrammers%5D_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12922) |
+| 20_10_01 |   [programmer]\_서울에서_김서방찾기   | [[programmer]\_서울에서_김서방찾기]<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12919) |
 
