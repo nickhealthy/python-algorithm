@@ -20,5 +20,5 @@
 | 20_09_27 | [programmers]_문자열\_다루기\_기본 | [programmers_문자열\_다루기\_기본](https://github.com/nickhealthy/Algorithm/blob/master/20_09_27/%5Bprogrammers%5D_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%8B%A4%EB%A3%A8%EA%B8%B0_%EA%B8%B0%EB%B3%B8.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12918) |
 | 20_09_28 |   [programmers]같은\_숫자는_싫어   | [[programmers]같은\_숫자는_싫어](https://github.com/nickhealthy/Algorithm/blob/master/20_09_28/%5Bprogrammers%5D%EA%B0%99%EC%9D%80_%EC%88%AB%EC%9E%90%EB%8A%94_%EC%8B%AB%EC%96%B4.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12906) |
 | 20_09_29 |      [programmers]\_K번째_수       | [[programmers]\_K번째_수](https://github.com/nickhealthy/Algorithm/blob/master/20_09_29/%5Bprogrammers%5D_K%EB%B2%88%EC%A7%B8_%EC%88%98.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42748) |
-| 20_09_30 |    [programmers]\_두_정수의\_합    | [[programmers]\_두_정수의\_합]<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12912) |
+| 20_09_30 |    [programmers]\_두_정수의\_합    | [[programmers]\_두_정수의\_합](https://github.com/nickhealthy/Algorithm/blob/master/20_09_30/%5Bprogrammers%5D_%EB%91%90_%EC%A0%95%EC%88%98%EC%9D%98_%ED%95%A9.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12912) |
 
