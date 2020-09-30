@@ -14,7 +14,7 @@ def solution(array, commands):
         ans.sort()
         answer.append(ans[commands[i][-1]-1])
     return answer
-
+ 
 
 
 # 두번째 방안
