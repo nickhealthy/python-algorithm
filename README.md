@@ -23,5 +23,5 @@
 | 20_09_30 |     [programmers]\_두_정수의\_합      | [[programmers]\_두_정수의\_합](https://github.com/nickhealthy/Algorithm/blob/master/20_09_30/%5Bprogrammers%5D_%EB%91%90_%EC%A0%95%EC%88%98%EC%9D%98_%ED%95%A9.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12912) |
 | 20_09_30 | [programmers]_수박수박수박수박수박수? | [[programmers]_수박수박수박수박수박수?](https://github.com/nickhealthy/Algorithm/blob/master/20_09_30/%5Bprogrammers%5D_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12922) |
 | 20_10_01 |  [programmers]\_서울에서_김서방찾기   | [[programmer]\_서울에서_김서방찾기](https://github.com/nickhealthy/Algorithm/blob/master/20_10_01/%5Bprogrammer%5D_%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C_%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12919) |
-| 20_10_01 |        [programmers]_모의고사         | [[programmers]_모의고사]<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42840) |
+| 20_10_01 |        [programmers]_모의고사         | [[programmers]_모의고사](https://github.com/nickhealthy/Algorithm/blob/master/20_10_01/%5Bprogrammers%5D_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42840) |
 
