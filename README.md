@@ -25,3 +25,4 @@
 | 20_10_01 |  [programmers]\_서울에서_김서방찾기   | [[programmer]\_서울에서_김서방찾기](https://github.com/nickhealthy/Algorithm/blob/master/20_10_01/%5Bprogrammer%5D_%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C_%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12919) |
 | 20_10_01 |        [programmers]_모의고사         | [[programmers]_모의고사](https://github.com/nickhealthy/Algorithm/blob/master/20_10_01/%5Bprogrammers%5D_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42840) |
 
+ 
