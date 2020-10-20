@@ -21,7 +21,7 @@
 | 20_09_30 |  [programmers]\_수박수박수박수박수박수?  | [[programmers]\_수박수박수박수박수박수?](https://github.com/nickhealthy/Algorithm/blob/master/20_09_30/%5Bprogrammers%5D_%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12922) |
 | 20_10_01 |   [programmers]\_서울에서\_김서방찾기    | [[programmer]\_서울에서\_김서방찾기](https://github.com/nickhealthy/Algorithm/blob/master/20_10_01/%5Bprogrammer%5D_%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C_%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12919) |
 | 20_10_01 |         [programmers]\_모의고사          | [[programmers]\_모의고사](https://github.com/nickhealthy/Algorithm/blob/master/20_10_01/%5Bprogrammers%5D_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42840) |
-| 20_10_02 | [programmers]\_나누어_떨어지는\_숫자배열 | [[programmers]\_나누어_떨어지는\_숫자배열]<br />[programmers] |
-| 20_10_03 |           [programmers]_체육복           |          [[programmers]_체육복]<br />[programmers]           |
-| 20_10_20 |           [elice]_아나그램탐지           |                    [[elice]_아나그램탐지]                    |
+| 20_10_02 | [programmers]\_나누어_떨어지는\_숫자배열 | [[programmers]\_나누어_떨어지는\_숫자배열](https://github.com/nickhealthy/Algorithm/blob/master/20_10_02/%5Bprogrammers%5D_%EB%82%98%EB%88%84%EC%96%B4_%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94_%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/12910) |
+| 20_10_03 |           [programmers]_체육복           | [[programmers]_체육복](https://github.com/nickhealthy/Algorithm/blob/master/20_10_03/%5Bprogrammers%5D_%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42862) |
+| 20_10_20 |           [elice]_아나그램탐지           | [[elice]_아나그램탐지](https://github.com/nickhealthy/Algorithm/blob/master/20_10_20/%5Belice%5D_%EC%95%84%EB%82%98%EA%B7%B8%EB%9E%A8%ED%83%90%EC%A7%80.py) |
 
