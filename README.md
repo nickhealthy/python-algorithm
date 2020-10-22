@@ -25,5 +25,5 @@
 | 20_10_03 |           [programmers]_체육복           | [[programmers]_체육복](https://github.com/nickhealthy/Algorithm/blob/master/20_10_03/%5Bprogrammers%5D_%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42862) |
 | 20_10_20 |           [elice]_아나그램탐지           | [[elice]_아나그램탐지](https://github.com/nickhealthy/Algorithm/blob/master/20_10_20/%5Belice%5D_%EC%95%84%EB%82%98%EA%B7%B8%EB%9E%A8%ED%83%90%EC%A7%80.py) |
 | 20_10_21 |        [programmers]_전화번호목록        | [[programmers]_전화번호목록](https://github.com/nickhealthy/Algorithm/blob/master/20_10_21/%5Bprogrammers%5D_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) |
-| 20_10_22 |         [programmers]_오픈채팅방         | [[programmers]_오픈채팅방]<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42888) |
+| 20_10_22 |         [programmers]_오픈채팅방         | [[programmers]_오픈채팅방](https://github.com/nickhealthy/Algorithm/blob/master/20_10_22/%5Bprogrammers%5D_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42888) |
 
