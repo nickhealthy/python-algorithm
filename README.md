@@ -28,4 +28,5 @@
 | 20_10_22 |         [programmers]_오픈채팅방         | [[programmers]_오픈채팅방](https://github.com/nickhealthy/Algorithm/blob/master/20_10_22/%5Bprogrammers%5D_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42888) |
 | 20_10_25 |          합한\_동일한_숫자배열           | [합한\_동일한_숫자배열](https://github.com/nickhealthy/Algorithm/blob/master/20_10_25/%ED%95%A9%ED%95%9C_%EB%8F%99%EC%9D%BC%ED%95%9C_%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4.py) |
 | 20_10_31 |    알고리즘 특강(자료구조, 알고리즘)     | [알고리즘 특강(자료구조, 알고리즘)](https://github.com/nickhealthy/Algorithm/tree/master/20_10_31) |
+| 20_12_26 |          [programmers]_기능개발          | [[programmers]_기능개발](https://github.com/nickhealthy/Algorithm/blob/master/20_12_26/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42586) |
 
