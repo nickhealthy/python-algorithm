@@ -29,7 +29,7 @@
 | 20_10_25 |          합한\_동일한_숫자배열           | [합한\_동일한_숫자배열](https://github.com/nickhealthy/Algorithm/blob/master/20_10_25/%ED%95%A9%ED%95%9C_%EB%8F%99%EC%9D%BC%ED%95%9C_%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4.py) |
 | 20_10_31 |    알고리즘 특강(자료구조, 알고리즘)     | [알고리즘 특강(자료구조, 알고리즘)](https://github.com/nickhealthy/Algorithm/tree/master/20_10_31) |
 | 20_12_26 |          [programmers]_기능개발          | [[programmers]_기능개발](https://github.com/nickhealthy/Algorithm/blob/master/20_12_26/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42586) |
-| 21_01_04 |     [programmers]_완주하지 못한 선수     | [[programmers]_완주하지 못한 선수]<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42576) |
-| 21_01_05 |        [programmers]_전화번호목록        | [[programmers]_전화번호목록]<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42577) |
-| 21_01_06 |            [programmers]_위장            | [[programmers]_위장]<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42578) |
+| 21_01_04 |     [programmers]_완주하지 못한 선수     | [[programmers]_완주하지 못한 선수](https://github.com/nickhealthy/Algorithm/blob/master/21_01_04/%5Bprogrammers%5D_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42576) |
+| 21_01_05 |        [programmers]_전화번호목록        | [[programmers]_전화번호목록](https://github.com/nickhealthy/Algorithm/blob/master/21_01_05/%5Bprogrammers%5D_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42577) |
+| 21_01_06 |            [programmers]_위장            | [[programmers]_위장](https://github.com/nickhealthy/Algorithm/blob/master/21_01_06/%5Bprogrammers%5D_%EC%9C%84%EC%9E%A5.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42578) |
 
