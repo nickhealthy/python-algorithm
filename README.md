@@ -29,4 +29,7 @@
 | 20_10_25 |          합한\_동일한_숫자배열           | [합한\_동일한_숫자배열](https://github.com/nickhealthy/Algorithm/blob/master/20_10_25/%ED%95%A9%ED%95%9C_%EB%8F%99%EC%9D%BC%ED%95%9C_%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4.py) |
 | 20_10_31 |    알고리즘 특강(자료구조, 알고리즘)     | [알고리즘 특강(자료구조, 알고리즘)](https://github.com/nickhealthy/Algorithm/tree/master/20_10_31) |
 | 20_12_26 |          [programmers]_기능개발          | [[programmers]_기능개발](https://github.com/nickhealthy/Algorithm/blob/master/20_12_26/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)<br />[programmers](https://programmers.co.kr/learn/courses/30/lessons/42586) |
+| 21_01_04 |     [programmers]_완주하지 못한 선수     |    [[programmers]_완주하지 못한 선수]<br />[programmers]     |
+| 21_01_05 |                                          |                                                              |
+| 21_01_06 |                                          |                                                              |
 
