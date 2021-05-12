@@ -6,17 +6,17 @@ class Solution:
         
         # 가장 긴 팰린드롬 체크
         def expand(left, right):
-            while left >= 0 and right <= len(s) and s[left] == s[right]:
+            while left >= 0 and right <= len(s) and s[left] == s[right - 1]:
                 left -= 1
                 right += 1
-            return s[left + 1 : right]
+            return s[left + 1 : right - 1]
 
         result = ''
-        for i in range(len(s) - 2):
+        for i in range(len(s) - 1):
+             # 가장 긴 팰린드롬 선별
             result = max(result,
-                        expand(i, i + 1), # 홀/짝에 따른 모든 경우의 수 체크를 위해 expand 2번 사용
-                        expand(i, i + 2),
+                        expand(i, i + 1), # 홀수 판별
+                        expand(i, i + 2), # 짝수 판별
                         key=len) # 길이를 기준으로 max 값을 result에 대입
 
         return result
-
