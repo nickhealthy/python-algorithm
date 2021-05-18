@@ -34,3 +34,38 @@ ans = reduce(lambda x, y : x + y, visited, list()) # 1차원 배열로 통합
 ans = [x for x in ans if x > 0] # 단지 개수가 포함된 것만 뽑아내기
 ans = sorted(Counter(ans).values()) # 단지 별로 뭉친 개수를 뽑아내기
 print("\n".join(map(str, ans)))
+
+
+
+
+# DFS 풀이
+n = int(input())
+visited = [[False] * n for _ in range(n)]
+map_list = [list(map(int, input())) for _ in range(n)]
+ans = []
+cnt = 0
+# 상, 하, 좌, 우
+dx = [-1, 1, 0, 0] # row
+dy = [0, 0, -1, 1] # col
+
+def dfs(x, y):
+    global cnt
+    cnt += 1
+    visited[x][y] = True
+    
+    for i in range(4):
+        nx = x + dx[i]
+        ny = y + dy[i]
+
+        if 0 <= nx < n and 0 <= ny < n and not visited[nx][ny] and map_list[nx][ny] == 1:
+            dfs(nx, ny)
+
+for i in range(n):
+    for j in range(n):
+        if not visited[i][j] and map_list[i][j] == 1:
+            cnt = 0
+            dfs(i, j)
+            ans.append(cnt)
+
+print(len(ans))
+print('\n'.join(map(str, sorted(ans))))
