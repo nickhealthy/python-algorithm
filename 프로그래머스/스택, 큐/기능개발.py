@@ -46,5 +46,33 @@ def solution(progresses, speeds):
         # 시간은 일정하게 1씩(하루)증가
         time += 1
     answer.append(count)
-    return answer
     
+    return answer
+
+def solution(progresses, speeds):
+    answer = []
+    result = []
+    # 기능별 끝나는 시점 계산
+    for progress, speed in zip(progresses, speeds):
+        cnt = 0
+        while True:
+            if progress >= 100:
+                answer.append(cnt)
+                break
+            else:
+                progress += speed
+                cnt += 1
+    
+    # 배포 시 몇 개의 기능이 완성되었는지 체크
+    front = 0
+    for idx in range(len(answer)):
+        if answer[idx] > answer[front]:
+            result.append(idx - front)
+            front = idx
+    
+    result.append(len(answer) - front)
+
+    return result
+
+    
+print(solution([93, 30, 55], [1, 30, 5]))
