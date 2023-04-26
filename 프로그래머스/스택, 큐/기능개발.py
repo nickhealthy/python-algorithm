@@ -27,28 +27,30 @@
         
 # solution 2
 
-def solution(progresses, speeds):
-    time = 0
-    count = 0
-    answer = []
-    while len(progresses) > 0:
-        # 기능개발을 맞춘거라면
-        if progresses[0] + speeds[0] * time >= 100:
-            progresses.pop(0)
-            speeds.pop(0)
-            count += 1
-        else:
-            # 카운트가 하나라도 올라가있으면 기능개발이 완료되었으므로
-            # 카운트가 2이상이라면 배포가 한번에 2개가 되는 것
-            if count > 0:
-                answer.append(count)
-                count = 0
-        # 시간은 일정하게 1씩(하루)증가
-        time += 1
-    answer.append(count)
+# 문제 개편전 버전 - 2021.05.30
+# def solution(progresses, speeds):
+#     time = 0
+#     count = 0
+#     answer = []
+#     while len(progresses) > 0:
+#         # 기능개발을 맞춘거라면
+#         if progresses[0] + speeds[0] * time >= 100:
+#             progresses.pop(0)
+#             speeds.pop(0)
+#             count += 1
+#         else:
+#             # 카운트가 하나라도 올라가있으면 기능개발이 완료되었으므로
+#             # 카운트가 2이상이라면 배포가 한번에 2개가 되는 것
+#             if count > 0:
+#                 answer.append(count)
+#                 count = 0
+#         # 시간은 일정하게 1씩(하루)증가
+#         time += 1
+#     answer.append(count)
     
-    return answer
+#     return answer
 
+# 문제 개편 버전 - 2023.04.26(수)
 def solution(progresses, speeds):
     answer = []
     result = []
