@@ -7,6 +7,6 @@
 
 select user_id, PRODUCT_ID
 from online_sale
-group by 1, 2
-having count(*) > 1
+group by user_id, product_id
+having count(*) > 1 
 order by user_id asc, PRODUCT_ID desc
